@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/61c44bc5-6842-474e-aa00-5fc370543149" alt="FULL STACK WEB DEVELOPER" style="height: 200px; width:100%;">
+<img src="https://github.com/user-attachments/assets/61c44bc5-6842-474e-aa00-5fc370543149" alt="FULL STACK WEB DEVELOPER" style="height: 100px; width:100%;">
 
 # 👋 Hi, I’m Vrushali Bhangude
 
