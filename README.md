@@ -7,6 +7,7 @@ I’m a passionate and aspiring **Full Stack Developer** with a strong interest 
 - **Frameworks**: Expanding my knowledge in popular frameworks to build efficient and modern web applications.
 - **Front-End Development**: Enhancing my skills in **ReactJS**, **JavaScript**, and **CSS**.
 - **Back-End Development**: Deepening my understanding of **NodeJS**, **ExpressJS**, and database management with **MongoDB** and **SQL**.
+![FULL STACK WEB DEVELOPER (3)](https://github.com/user-attachments/assets/61c44bc5-6842-474e-aa00-5fc370543149)
 
 ## 🛠️ Technical Skills
 - **Front-End**: HTML, CSS, JavaScript, ReactJS
