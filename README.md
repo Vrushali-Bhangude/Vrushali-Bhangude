@@ -1,36 +1,42 @@
-![github](https://github.com/user-attachments/assets/87b86289-0bac-4d54-9d2d-3f478a5039ab)
+# ʜᴇʟʟᴏ, ɪ'ᴍ Vrushali 👩‍💻 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
-# 👋 Hi, I’m Vrushali Bhangude
+<p align="center" style="color:white">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="coding keyboard" width="100%" height="220px" style="border-radius:4px"/>
+  "Every line of code you type is a conversation with your keyboard - make it meaningful."
+</p>
 
-## 💻 About Me
-I’m a passionate and aspiring **Full Stack Developer** with a strong interest in building scalable and user-centric web applications. I enjoy turning ideas into reality through code and am constantly exploring new technologies to enhance my skills.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vrushali&label=Profile%20views&color=0e75b6&style=plastic" alt="vrushali" /> 
+</p>
 
-## 🌱 What I’m Currently Learning
-- **Frameworks**: Expanding my knowledge in popular frameworks to build efficient and modern web applications.
-- **Front-End Development**: Enhancing my skills in **ReactJS**, **JavaScript**, and **CSS**.
-- **Back-End Development**: Deepening my understanding of **NodeJS**, **ExpressJS**, and database management with **MongoDB** and **SQL**.
+- Full Stack Developer (MERN Stack)
+- Skills: HTML, CSS, JavaScript, Node.js, React, MongoDB, SQL, C, C++, Java
+- **[Contact Me](your-contact-link-here)** 
 
-## 🛠️ Technical Skills
-- **Front-End**: HTML, CSS, JavaScript, ReactJS
-- **Back-End**: NodeJS, ExpressJS, MongoDB, SQL
-- **Programming Languages**: Java, C++
-- **Tools**: Git, VS Code, Postman, Figma
+## 🛠️ **ᴛᴇᴄʜ sᴛᴀᴄᴋ**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 
-## 🚀 Projects
-Here are some of the projects I’ve worked on:
-- **Online Learning Platform**: A web application designed to facilitate online education.
-- **Online Shopping App**: An e-commerce platform with user-friendly features.
-- **AI ChatGPT Application**: A conversational AI tool built using modern technologies.
-- **Virtual Assistant**: A project aimed at simplifying daily tasks through automation.
+## 🐙 **ɢɪᴛʜᴜʙ sᴛᴀᴛs**
 
-## 📫 Let’s Connect
-I’m always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out to me:
-- **LinkedIn**: [https://www.linkedin.com/in/vrushali-bhangude-7101732b1/](https://www.linkedin.com/in/vrushali-bhangude-7101732b1/)
-- **Email**: [vrushalibhangude2@gmail.com](mailto:vrushalibhangude2@gmail.com)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vrushali&show_icons=true&theme=radical)](https://github.com/vrushali) 
 
-## 🌟 Fun Fact
-I believe in the power of continuous learning and strive to improve my skills every day. When I’m not coding, you can find me exploring new tech trends or working on creative side projects.
+![GitHub followers](https://img.shields.io/github/followers/vrushali?color=aqua&label=Followers&style=for-the-badge) 
+![GitHub User's stars](https://img.shields.io/github/stars/vrushali?affiliations=OWNER&color=aqua&style=for-the-badge) 
 
----
+![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-⭐️ **Thank you for visiting my profile!** ⭐️
+sᴛᴀᴛᴜs : 🚀 Currently working on exciting full-stack projects!
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vrushali&theme=github-compact&custom_title=Vrushali's%20Activity%20Graph&hide_border=true)](https://github.com/vrushali)
+
+## 🌱 **ʟᴇᴀʀɴɪɴɢ & ɢᴏᴀʟs**
+- Expanding my knowledge in cloud technologies
+- Building scalable web applications
+- Contributing to open-source projects add this
