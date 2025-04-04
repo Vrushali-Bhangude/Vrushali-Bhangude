@@ -11,7 +11,7 @@
 
 - Full Stack Developer (MERN Stack)
 - Skills: HTML, CSS, JavaScript, Node.js, React, MongoDB, SQL, C, C++, Java
-- **[Contact Me](your-contact-link-here)** 
+- **[Contact Me](https://www.linkedin.com/in/vrushali-bhangude-7101732b1/)** 
 
 ## 🛠️ **ᴛᴇᴄʜ sᴛᴀᴄᴋ**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
