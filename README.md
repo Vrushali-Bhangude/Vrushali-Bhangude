@@ -1,4 +1,5 @@
 # ʜᴇʟʟᴏ, ɪ'ᴍ Vrushali 👩‍💻 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+![1](https://github.com/user-attachments/assets/fa2faf9d-8565-4e2a-bc0e-a83bbab52aee)
 
 <p align="center" style="color:white">
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="coding keyboard" width="100%" height="220px" style="border-radius:4px"/>
