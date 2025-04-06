@@ -26,13 +26,12 @@
 
 ## 🐙 **ɢɪᴛʜᴜʙ sᴛᴀᴛs**
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vrushali&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/vrushali) 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vrushali-Bhangude&show_icons=true&theme=radical)](https://github.com/Vrushali-Bhangude) 
 
-[![GitHub followers](https://img.shields.io/github/followers/vrushali?logo=github&color=radical&style=for-the-badge)](https://github.com/vrushali?tab=followers) 
-[![GitHub stars](https://img.shields.io/github/stars/vrushali?affiliations=OWNER&color=radical&style=for-the-badge)](https://github.com/vrushali?tab=repositories) 
-sᴛᴀᴛᴜs : 🚀 Currently working on exciting full-stack projects!
+![GitHub followers](https://img.shields.io/github/followers/Vrushali-Bhangude?color=aqua&label=Followers&style=for-the-badge) 
+![GitHub User's stars](https://img.shields.io/github/stars/Vrushali-Bhangude?affiliations=OWNER&color=aqua&style=for-the-badge) 
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vrushali&theme=github-compact&custom_title=Vrushali's%20Activity%20Graph&hide_border=true)](https://github.com/vrushali)
+![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🌱 **ʟᴇᴀʀɴɪɴɢ & ɢᴏᴀʟs**
 - Expanding my knowledge in cloud technologies
