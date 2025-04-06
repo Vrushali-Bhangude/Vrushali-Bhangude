@@ -2,13 +2,12 @@
 ![1](https://github.com/user-attachments/assets/fa2faf9d-8565-4e2a-bc0e-a83bbab52aee)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="coding keyboard" width="100%" height="220px"/>
   <br>
-  <em>"Every line of code you type is a conversation with your keyboard - make it meaningful."</em>
+  <em>"Programming isn't about what you know, it's about what you can figure out."</em><br><br>
+  <em>"There are two ways to write error-free programs; only the third one works."</em><br><br>
+  <em>"Clean code always looks like it was written by someone who cares."</em>
 </p>
 
-<!-- Snake Animation -->
-![Snake Animation](https://github.com/Vrushali-Bhangude/Vrushali-Bhangude/blob/output/github-contribution-grid-snake.svg)
 
 ## 👩‍💻 **ᴀʙᴏᴜᴛ ᴍᴇ**
 <p align="left">
@@ -50,9 +49,14 @@
   [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vrushali-Bhangude&theme=github-dark&area=true&hide_border=true&custom_title=Vrushali's%20Contribution%20Graph)](https://github.com/Vrushali-Bhangude)
 
 </div>
-## 💬 **ᴛᴏᴅᴀʏ's ǫᴜᴏᴛᴇ**
-<!-- Refresh page to see new quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random quote" width="100%">
+
+## 🌟 **Coding Motivation**
+<!-- Dynamic quote -->
+<div align="center">
+  <a href="#">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gradient&font=poppins&border=10,linear-gradient,45deg,00ff87,60efff" width="85%" alt="Developer quote">
+  </a>
+</div>
 
 ## 📱 **Connect With Me**
 
